@@ -1,0 +1,95 @@
+img{
+    height: 280px;
+    display: inline-block;
+    margin-right: 15px;
+    
+    
+}
+
+h1{
+    text-align: center;
+}
+p{
+    font-size: x-large;
+}
+.Egypt{
+    width: 1000px;
+    height: 500px;
+}
+body{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul li{
+list-style-type: none;
+display: inline;
+color: rgb(250, 218, 177);
+margin-left: 15px;
+margin-right: 15px;
+}
+nav ul{
+    border: 5px solid rgb(247, 237, 219);
+    background-color: sandybrown;
+}
+#Unorgonisedlist{
+    font-size: 27px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(255, 239, 209);
+}
+table, th, td{
+    border: 2px solid black ;
+    border-collapse: collapse;
+    padding: 7px;
+    margin: 5px;
+}
+tr{
+   background-color: rgb(254, 185, 100);
+}
+#myvideo{
+position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;          
+    object-fit: cover;
+}
+p{
+    color: #FFFFFF;
+}
+h1{
+    color: #FFFFFF;
+}
+h3{
+    color: #FFFFFF;
+}
+li{
+    color: #FFFFFF;
+    font-size: large;
+}
+h2{
+    color: #FFFFFF;
+}
+img{
+    display: block;
+}
+ol{
+    padding: 5px;
+}
+.Jjjj{
+    display: inline-block;
+}
+iframe{
+   width: 1500px;
+   height: 550px;
+   margin-left: 0px;
+   margin-top: 0px;
+   margin-bottom: 10px;
+   margin-right: 5px;
+   padding-right: 5px ;
+}
